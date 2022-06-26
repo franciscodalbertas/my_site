@@ -2,8 +2,8 @@
 author: Metzger, J.P., Esler, K., Krug, C., Arias, M., Tambosi, L., Crouzeilles, R., Acosta, A.L., Brancalion, P.H., d’Albertas, F., et al.
 categories:
 - articles
-date: "2017-01-12"
-date_end: "2017-12-01"
+date: "2017-12-01"
+date_end: "2017-12-02"
 draft: false
 excerpt: Paper from the workshop blabla scennet.
 featured: true
