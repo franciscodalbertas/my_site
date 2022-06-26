@@ -8,6 +8,7 @@ draft: false
 excerpt: Paper from the workshop blabla scennet.
 featured: true
 layout: single
+location: Online
 links:
 - icon: door-open
   icon_pack: fas
