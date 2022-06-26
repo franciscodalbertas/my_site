@@ -20,7 +20,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: Francisco d'Albertas
-  description: "Publications on peer-reviewed journals \n"
+  description: "Publications on peer-reviewed journals"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /publication/index.xml
