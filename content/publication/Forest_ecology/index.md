@@ -3,11 +3,11 @@ author: Francisco d'Albertas, Karine Costa, Isabela Romitelli, Jomar Magalhães 
 categories:
 - articles
 date: "2018-01-01"
-date_end: "2018-01-02"
+#date_end: "2018-01-02"
 draft: false
 #event: rstudio::global(2021)
 #event_url: https://global.rstudio.com
-excerpt: This is the paper resulting from my master's thesis.
+#excerpt: This is the paper resulting from my master's thesis.
 featured: true
 layout: single
 links:
@@ -23,6 +23,7 @@ location: online
 show_post_time: false
 subtitle: Forest Ecology and Management
 title: Lack of evidence of edge age and additive edge effects on carbon stocks in a tropical forest
+type: talk
 ---
 # Abstract
 
