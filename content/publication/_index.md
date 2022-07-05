@@ -1,7 +1,7 @@
 ---
-author: The R Markdown Team @RStudio
+author: Francisco d'Albertas
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Francisco d'Albertas
   show_author_byline: true
   show_comments: false
   show_post_date: true
@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+ Those are my most significant articles published
 layout: list
 show_author_byline: true
 show_button_links: true
@@ -19,15 +19,13 @@ show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a list for your talks, workshops, or \nother events with a
-    time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
-    out the _index.md file in the /talk folder \nto edit this content. \n"
+  author: Francisco d'Albertas
+  description: "Publications on peer-reviewed journals"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
-  text_link_url: /project/index.xml
-  title: Talks that Last
-title: Talks that Last
+  text_link_url: /publication/index.xml
+  title: Publications on peer-reviewed journals
+title: Publications on peer-reviewed journals
 type: talk
 cascade:
   type: talk
