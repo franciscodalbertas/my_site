@@ -5,11 +5,12 @@ action_type: text
 description: description about my site and what to be found.
 image_left: true
 images:
-- img/revoir.jpg
+#- img/revoir.jpg
+- IMG_6521_menor.png
 show_action_link: true
 show_social_links: true
 subtitle: Welcome to my  personal webpage
-text_align_left: false
+text_align_left: true
 title: Francisco d'Albertas
 type: home
 ---
