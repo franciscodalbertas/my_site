@@ -23,7 +23,7 @@ location: online
 show_post_time: false
 subtitle: Forest Ecology and Management
 title: Lack of evidence of edge age and additive edge effects on carbon stocks in a tropical forest
-type: talk
+
 ---
 # Abstract
 

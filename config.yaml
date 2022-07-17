@@ -40,7 +40,9 @@ params:
   mainSections:
     - blog
     - project
+    - publication
     - talk
+
   math:
     renderer: katex
   navallcaps: yes
@@ -84,6 +86,9 @@ taxonomies:
   category: categories
   series: series
   tag: tags
+# Permalinks
+permalinks:
+  publication = "/talk/:filename/"
 menu:
   footer:
     - name: License
@@ -103,26 +108,34 @@ menu:
       title: About Blogophonic
       url: /about/
       weight: 1
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 2
+#    - name: Blog
+#      title: Blog
+#      url: /blog/
+#      weight: 2
     - name: Projects
       title: Project Portfolio
       url: /project/
-      weight: 3
-    - name: Talks
+      weight: 2
+# - name: Publication
+#   title: My publication
+#   url: /publication/
+#   weight: 4
+    - name: Publication
       title: Talks
       url: /talk/
-      weight: 4
-    - name: Publication
-      title: Publication
-      url: /publication/
-      weight: 5
+      weight: 3
+    - name: Talk
+      title: Talks
+      url: /talks/
+      weight: 3
+#    - name: Publication
+#      title: Publication
+#      url: /publication/
+#      weight: 5
 #    - name: Elements
 #      title: Element Page
 #      url: /elements/
-#      weight: 6
+#      weight: 4
 privacy:
   disqus:
     disable: no
@@ -144,3 +157,19 @@ privacy:
   youtube:
     disable: no
     privacyEnhanced: yes
+
+
+#############################################################################
+## OBS
+#############################################################################
+
+# tips: https://hugo-apero-docs.netlify.app/start/section-config/
+
+# run site: blogdown::serve_site()
+
+# https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/
+
+# cant make publications work. crap
+
+#############################################################################
+
