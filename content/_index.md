@@ -10,7 +10,7 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle: Welcome to my  personal webpage
-text_align_left: true
+text_align_left: false
 title: Francisco d'Albertas
 type: home
 ---
