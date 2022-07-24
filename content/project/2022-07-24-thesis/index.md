@@ -17,6 +17,6 @@ links:
   url: https://github.com/franciscodalbertas/Tese
 ---
 
-## Building my PhD thesis with R
+## Formating my PhD thesis with R
 
 Describe linking thesis down etc, create the link to github and to the pdf.
