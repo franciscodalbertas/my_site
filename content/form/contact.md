@@ -1,6 +1,6 @@
 ---
-date: "2022-08-205T"
-description: Get in touch!
+date: "2022-08-05"
+description: Use the form to contact me. 
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right
@@ -8,7 +8,7 @@ name: Contact Us Form
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
-title: Contact
+title: Get in touch!
 type: form
 url: https://formspree.io/f/moqbabll
 ---
