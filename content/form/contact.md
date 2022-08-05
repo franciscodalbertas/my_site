@@ -1,8 +1,8 @@
 ---
 date: "2022-08-05"
-description: Use the form to contact me. 
+description: Please, use the form to contact me. 
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: francisco.albertas@gmail.com
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
@@ -10,7 +10,7 @@ show_social_links: true
 submit_button_label: Send Message
 title: Get in touch!
 type: form
-url: https://formspree.io/f/moqbabll
+url: contact
 ---
 
 ** Contact page don't contain a body, just the front matter above.
