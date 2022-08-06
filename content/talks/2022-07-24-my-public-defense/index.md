@@ -24,4 +24,6 @@ title: Caminhos para a intensificação ecológica da agricultura através da re
 
 ---
 
-Describe here how I did it. Describe language too.
+I have designed the slides for my public defense using an amazing R package called [xaringan](https://github.com/yihui/xaringan). I have adapted the slide template from the [NHSR](https://github.com/nhs-r-community/nhsrtheme) theme.
+
+The presentation is in portuguese.

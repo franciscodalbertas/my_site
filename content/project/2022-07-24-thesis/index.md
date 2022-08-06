@@ -5,7 +5,7 @@ categories:
 title: My thesis
 date: '2022-03-28'
 draft: false
-excerpt: Building my PhD thesis with R markdown
+excerpt: Formating my PhD thesis with R markdown
 links:
 - icon: book-open
   icon_pack: fas
@@ -19,4 +19,6 @@ links:
 
 ## Formating my PhD thesis with R
 
-Describe linking thesis down etc, create the link to github and to the pdf.
+I have formated my PhD thesis using two very helpfull R resources: the [thesisdown package](https://thesisdown.rbind.io/) and the [ufscdown](https://github.com/lfpdroubi/ufscdown) customization, which are both customizations of the [bookdown](https://github.com/rstudio/bookdown) package.
+
+Although some parts of the thesis are in portuguese, the main chapters are all in english.
