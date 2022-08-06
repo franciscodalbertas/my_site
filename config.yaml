@@ -102,10 +102,10 @@ menu:
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
+#    - name: Contributors
+#      title: Contributors
+#      url: /contributors/
+#      weight: 3
   header:
     - name: About
       title: About Blogophonic
