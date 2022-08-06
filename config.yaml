@@ -42,6 +42,7 @@ params:
     - project
     - publication
     - talk
+    - talks
 
   math:
     renderer: katex
