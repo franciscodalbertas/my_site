@@ -24,3 +24,8 @@ show_post_time: false
 subtitle: Public defense
 title: Certificação Ambiental e a Restauração Florestal
 ---
+
+I have designed the slides  using an amazing R package called [xaringan](https://github.com/yihui/xaringan). 
+
+The presentation is in portuguese.
+
