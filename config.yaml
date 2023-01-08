@@ -77,7 +77,8 @@ params:
       url: https://scholar.google.com/citations?user=IcrbIzEAAAAJ&hl=pt-BR
     - icon: "cv" # icon name without the 'fa-'
       icon_pack: ai
-      url: https://drive.google.com/file/d/1MUD_5ISH-UnNDGHg75frxnW629CcH32b/view?usp=sharing
+      url:  "/docs/mycv.pdf
+  #https://drive.google.com/file/d/1MUD_5ISH-UnNDGHg75frxnW629CcH32b/view?usp=sharing
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
