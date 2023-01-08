@@ -11,7 +11,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
+  name: slides
   url: https://publicdefensephdfranciscodalbertas.netlify.app/#1
 - icon: github
   icon_pack: fab
