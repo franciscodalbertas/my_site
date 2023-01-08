@@ -2,8 +2,8 @@
 author: Francisco d'Albertas
 categories:
 - R
-title:My cv
-date: 2023-01-08T16:43:51-03:00
+title: My cv
+date: '2023-01-08'
 draft: false
 excerpt:  Creating a cv with r markdown
 links:
