@@ -1,11 +1,11 @@
 ---
-author: d’Albertas, F., González-Chaves, A., Borges-Matos, C., Zago de Almeida Paciello, V., Maron, M., Metzger, J.P.
-categories:
-- articles
-date: '2021-01-01'
+author: d’Albertas, F.; González-Chaves, A.; Borges-Matos, C.; Zago de Almeida Paciello, V.; Maron, M., Metzger, J.P.
+date: 2021-01-01
 draft: false
 featured: true
 layout: single
+categories:
+- articles
 links:
 - icon: door-open
   icon_pack: fas
