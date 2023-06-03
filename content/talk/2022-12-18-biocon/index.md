@@ -4,6 +4,8 @@ date: 2022-12-18
 draft: false
 featured: true
 layout: single
+categories: 
+- articles
 links:
 - icon: door-open
   icon_pack: fas
