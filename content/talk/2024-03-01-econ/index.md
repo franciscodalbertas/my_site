@@ -1,7 +1,7 @@
 ---
+author: Cesar de Oliveira, S.E.M
 title: The European Union and United Kingdom's deforestation-free supply chains
 subtitle: Ecological Economics
-author: Cesar de Oliveira, S.E.M
 date: '2024-03-01'
 slug: econ
 categories:
