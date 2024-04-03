@@ -1,11 +1,12 @@
 ---
-author: Cerullo, G., Worthington, T., Brancalion, P., Brandão, J., d’Albertas, F., Eyres, A., Swinfield, T., Edwards, D., Balmford, A.
-title: Conflicts and opportunities for commercial tree plantation expansion and biodiversity restoration across Brazil
+show_post_time: false
 subtitle: Global Change Biology
+author: Cerullo, G., Worthington, T., Brancalion, P., Brandão, J., d’Albertas, F. et al.
+title: Conflicts and opportunities for commercial tree plantation expansion and biodiversity restoration across Brazil
 date: '2024-01-01'
 slug: gcb
 categories:
-  - articles
+- articles
 tags: []
 links:
 - icon: door-open
