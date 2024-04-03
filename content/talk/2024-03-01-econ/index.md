@@ -2,7 +2,7 @@
 title: The European Union and United Kingdom's deforestation-free supply chains regulations: Implications for Brazil
 subtitle: Ecological Economics
 author: Cesar de Oliveira, S.E.M., Nakagawa, L., Lopes, G.R., Visentin, J.C., Couto, M., Silva, D.E., d’Albertas, F., Pavani, B.F., Loyola, R., West, C.
-date: '2023-03-01'
+date: '2024-03-01'
 slug: econ
 categories:
   - articles
