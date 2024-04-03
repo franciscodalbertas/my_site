@@ -1,5 +1,5 @@
 ---
-author: Cesar de Oliveira, S.E.M., Nakagawa, L., Lopes, G.R., Visentin, J.C., Couto, M., Silva, D.E., d’Albertas, F., Pavani, B.F., Loyola, R., West, C.
+author: Cesar de Oliveira, S.E.M., Nakagawa, L., Lopes, G.R., Visentin, J.C., Couto, M., Silva, D.E., d’Albertas, F.et al.
 title: The EU and UK's deforestation-free supply chains regulation
 date: '2024-03-01'
 slug: econ
