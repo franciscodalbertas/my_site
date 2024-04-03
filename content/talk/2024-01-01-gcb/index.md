@@ -1,8 +1,7 @@
 ---
-title: Conflicts and opportunities for commercial tree plantation expansion and 
-subtitle: Global Change Biology
-biodiversity restoration across Brazil
 author: Cerullo, G., Worthington, T., Brancalion, P., Brandão, J., d’Albertas, F., Eyres, A., Swinfield, T., Edwards, D., Balmford, A.
+title: Conflicts and opportunities for commercial tree plantation expansion and biodiversity restoration across Brazil
+subtitle: Global Change Biology
 date: '2024-01-01'
 slug: gcb
 categories:
