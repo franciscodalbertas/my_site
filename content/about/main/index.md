@@ -1,12 +1,12 @@
 ---
 ## Configure page content in wide column
-title: "What is going on" # leave blank to exclude
+title: "More details" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Currently, I am part of a large international project, [the Trade, Development & the Environment Hub]( https://tradehub.earth/), whose aim is to help making global trade of commodities more sustainable. 
+  Currently, I am part of a large interdisciplinary project, [the Cambridge Centre for Carbon Credtis (4C)]( https://4c.cst.cam.ac.uk/), whose aim is to scale up credible nature-based carbon credits
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>You made it to the very end!
