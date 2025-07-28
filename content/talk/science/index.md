@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: link to the paper
-  url: https://www.sciencedirect.com/science/article/pii/S2590332223005109
+  url: https://www.science.org/doi/full/10.1126/science.adv8264
 ---
 
 The risk that locally successful nature conservation may be shifting problems elsewhere can no longer be ignored
