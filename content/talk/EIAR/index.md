@@ -3,8 +3,7 @@ show_post_time: false
 subtitle: Environmental Impact Assessment Review
 title: Combining protection and restoration strategies enables cost-effective compensation with ecological equivalence in Brazil
 author: Clarice Borges-Matos, Francisco d'Albertas, Mariana Eiko Mendes, Rafael Loyola, Jean Paul Metzger
-date: '2025-02-14'
-slug: science
+date: '2025-06-01'
 categories:
 - articles
 tags: []
