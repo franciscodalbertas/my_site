@@ -21,3 +21,6 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.95.0")
+
+
+blogdown::new_content(path = "talk/Science/index.md", kind = "page", ext = ".md")
