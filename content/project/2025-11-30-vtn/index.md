@@ -3,7 +3,7 @@ author: Francisco d'Albertas
 categories:
 - R
 title: Spatial model of land value for the Brazilian territory
-date: '2022-03-28'
+date: '2025-11-28'
 draft: false
 excerpt: Spatializing data on land value
 links:
