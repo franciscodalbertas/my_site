@@ -8,16 +8,15 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: This is a portfolio of my experiments using R to create reproducible content.
+description: A portfolio of research projects, applied analyses, and exploratory work spanning land use, forest restoration, beef production, and the tools and packages I use to investigate them.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "Projects can be anything!\nCheck out the _index.md file in the /project
-    folder \nto edit this content.\n"
+  author: Francisco d'Albertas
+  description: "A selection of research and exploratory projects, including work developed as part of my research and experiments with new tools, methods, and packages."
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
