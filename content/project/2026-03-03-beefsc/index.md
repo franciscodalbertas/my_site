@@ -2,7 +2,7 @@
 author: Francisco d'Albertas Gomes de Carvalho
 categories:
 - BeefSC
-title: BeefSC: A model for calculating optimal stocking rates and costs of beef
+title: "BeefSC: A model for calculating optimal stocking rates and costs of beef"
 date: '2026-03-03'
 draft: false
 excerpt: A spatially explicit model of optimal cattle stocking rates, beef yields, and production costs across Brazil
